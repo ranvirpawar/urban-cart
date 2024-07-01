@@ -1,6 +1,6 @@
 # 🛒 Urban Cart 
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat) ![BLoC](https://img.shields.io/badge/BLoC-02569B?logo=bloc&logoColor=white&style=flat) ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat) ![BLoC](https://img.shields.io/badge/BLoC-02569B?logo=bloc&logoColor=white&style=flat) ![Version](https://img.shields.io/badge/version-3.16.9-blue)
 
 ## 📱 Overview
 
@@ -26,9 +26,9 @@ Widgets: Reusable UI components.
 #### State Management with BLoC
 The app uses the BLoC pattern to manage state efficiently. BLoC separates business logic from the UI, ensuring a clean architecture and better testability.
 
-**Event**: User actions that trigger state changes.
-**State**: Represents the UI state.
-**BLoC**: Handles events and updates the state accordingly.
+- **Event**: User actions that trigger state changes.
+- **State**: Represents the UI state.
+- **BLoC**: Handles events and updates the state accordingly.
 
 ## 🚀 Getting Started
 
