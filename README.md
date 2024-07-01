@@ -14,14 +14,6 @@ The **Grocery App** is a mobile application built with [Flutter](https://flutter
 - 📋 **Order History:** Track your past orders.
 - 🌐 **API Integration:** Fetch real-time data from a backend server.
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed:
-- [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- [Dart SDK](https://dart.dev/get-dart)
-- [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/) with Flutter and Dart plugins.
 
 ## Key Components
 BLoC (Business Logic Component): Manages state and business logic.
@@ -37,3 +29,13 @@ The app uses the BLoC pattern to manage state efficiently. BLoC separates busine
 **Event**: User actions that trigger state changes.
 **State**: Represents the UI state.
 **BLoC**: Handles events and updates the state accordingly.
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed:
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart SDK](https://dart.dev/get-dart)
+- [Android Studio](https://developer.android.com/studio) or [Visual Studio Code](https://code.visualstudio.com/) with Flutter and Dart plugins.
+
